@@ -28,7 +28,7 @@ body {
 }
 
 #main-title {
-  color: #ffde7a;l>
+  color: #ffde7a;
 
   font-family: "Patua One", monospace;
   text-align: center;
@@ -78,7 +78,7 @@ l>
   flex-direction: row;
   flex-wrap: wrap; /* This tell's the flex items to wrap if there
                       isn't enough space for all of the items. Without this the
-                      faculty images will be in a row and only resize well unitl around
+                      faculty images will be in a row and only resize well until around
                       550px width of screen. */
   justify-content: center;
   align-content: center;
