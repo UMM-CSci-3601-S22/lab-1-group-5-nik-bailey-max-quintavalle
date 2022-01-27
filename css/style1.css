@@ -7,7 +7,7 @@
 
 body {
   padding: 30px;
-  background-color: #7a0019;
+  background-color: #0437c4;
   display: flex; /* this is the flexbox model. It adds responsive design to its items */
   flex-direction: column; /* this says how the flex items will align (e.g. 'row') */
   align-items: center; /* These next two properties center the flex items */
@@ -28,7 +28,8 @@ body {
 }
 
 #main-title {
-  color: #ffde7a;
+  color: #ffde7a;l>
+
   font-family: "Patua One", monospace;
   text-align: center;
   font-size: 4rem;
@@ -45,6 +46,7 @@ h2 {
   margin: 10px;
   max-width: 48em;
 }
+l>
 
 #courses {
   background-color: #ffde7a;

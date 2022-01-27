@@ -78,7 +78,7 @@ this: <http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/> but will not be ident
 > your team's repo on GitHub. You can remove this note when you've done these
 > things.
 
-<http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/>
+<https://umm-csci-3601-s22.github.io/lab-1-group-5-nik-bailey-max-quintavalle/>
 
 ### Version Control Reminder
 
