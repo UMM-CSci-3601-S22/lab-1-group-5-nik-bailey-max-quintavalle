@@ -55,6 +55,16 @@ l>
 #tool{
   background-color: #15e227;
 }
+.cloud{
+  background-color: #ffde7a;
+}
+
+.local{
+  color: black;
+}
+.version-control{}
+.ide{}
+.testing{}
 
 #pslo {
   background-color: #d5d6d2;
