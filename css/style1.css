@@ -7,7 +7,7 @@
 
 body {
   padding: 30px;
-  background-color: #0437c4;
+  background-color: #7e0f1e;
   display: flex; /* this is the flexbox model. It adds responsive design to its items */
   flex-direction: column; /* this says how the flex items will align (e.g. 'row') */
   align-items: center; /* These next two properties center the flex items */
