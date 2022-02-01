@@ -61,19 +61,21 @@ l>
 }
 
 .local{
-  background-color: #1151db;
+  background-color: #11db1b;
 }
 
 .version-control{
   font-family: 'Times New Roman', Times, cursive;
+  font-size: 2rem;
 }
 .ide{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-
+  font-family: serif;
+  font-size: 2rem;
 }
 .testing{
   font-family: fantasy;
 
+font-size: 2rem;
 }
 
 #pslo {
