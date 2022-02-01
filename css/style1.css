@@ -58,13 +58,21 @@ l>
 .cloud{
   background-color: #ffde7a;
 }
-
 .local{
-  color: black;
+  background-color: #1151db;
 }
-.version-control{}
-.ide{}
-.testing{}
+
+.version-control{
+  font-family: 'Times New Roman', Times, cursive;
+}
+.ide{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+.testing{
+  font-family: fantasy;
+
+}
 
 #pslo {
   background-color: #d5d6d2;
